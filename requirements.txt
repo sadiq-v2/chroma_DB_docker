@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain_community
+ollama
+faiss-cpu
+transformers
+concurrent-log-handler
+sentence_transformers
+chromadb
